@@ -19,4 +19,5 @@ In addition to displaying the weather details, the application also saves this d
 To develop this application, the following tools and technologies were used: Java for writing the core application logic, Apache NetBeans IDE for coding, compiling, and running the program, OpenWeatherMap API for live weather data, org.json (json.jar) for JSON parsing, and FileWriter for file storage. These tools together provide a complete end-to-end solution for building and running a Java-based weather application. This project helped me understand how Java can interact with online APIs, handle structured data like JSON, and store results in local files. It was a great learning experience and gave me hands-on exposure to real-world software development using Java and internet-based data services.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/cbc8a23c-0170-46e9-bad9-9a696fadc651)
 
